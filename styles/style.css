@@ -1,0 +1,26 @@
+* {
+    border: 2px solid red;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeebeb;
+
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.formContainer {
+    display: flex;
+
+}
+
+.rightPhotoContainer {
+    display: flex;
+
+}
